@@ -24,5 +24,5 @@ if(process.env.NODE_ENV==='production'){
 }
 
 
-const port = 3001
+const port = 8080
 app.listen(port, ()=>console.log("Connection to server established on port:", port))
