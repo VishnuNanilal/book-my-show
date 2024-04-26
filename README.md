@@ -1,0 +1,22 @@
+# MERN BOOK MY SHOW 
+
+A show booking site built using MERN stack including Axios and Stripe for payment functionality.
+
+Functionalities
+
+1. Theaters owners can add their theaters and accept request for shows from Show owners. 
+2. Show distributors/producers can add their movies/tv-shows etc to the theaters.
+3. Admins approve the distributor-theater owner collaborated shows.
+4. Users can pay and book Admin approved shows.
+
+**features :**
+- Front End created using *React*
+- Global state management system using *Redux* 
+- Client-Server RESTFUL communication implemented using *axios*
+- Back End implemented in *NodeJS*.
+- Requests from Front End received by Back End with *Express*
+- Database implemented on *MongoDB*
+
+# QuickStart Guide
+
+- Clone the entire repository using `code`git clont <url>.git `code`
