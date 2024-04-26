@@ -21,14 +21,14 @@ Functionalities
 
 - Clone the entire repository using `git clone https://github.com/VishnuNanilal/book-my-show.git`
 - Install modules in both server and client folders using `npm install`
-- Set up your <Database link, DB_link>, <JWT key, jwt_secret_key>, <Stripe key, stripe_key> in .env file
+- Set up your Database link, JWT key, Stripe key as DB_link, jwt_secret_key, stripe_key respectively in .env file.
 - Run server side using `cd .\server\` `nodemon index.js`
 - Run client side using `npm run start`
 
 # Languages and tools
 
 - [React](https://react.dev/)
-- [NodeJs](https://nodejs.org/en/)
+- [NodeJS](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
-- [Axios](https://axios-http.com/docs/intro)
+- [Axios](https://axios-http.com/docs/intro)    
 - [MongoDB](https://www.mongodb.com/docs/atlas/)
