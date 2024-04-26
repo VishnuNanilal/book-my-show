@@ -19,4 +19,4 @@ Functionalities
 
 # QuickStart Guide
 
-- Clone the entire repository using `code`git clont <url>.git `code`
+- Clone the entire repository using `code git clone <url>.git`
