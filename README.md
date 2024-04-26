@@ -19,4 +19,8 @@ Functionalities
 
 # QuickStart Guide
 
-- Clone the entire repository using `code git clone <url>.git`
+- Clone the entire repository using `git clone https://github.com/VishnuNanilal/book-my-show.git`
+- Install modules in both server and client folders using `npm install`
+- Set up your <Database link, DB_link>, <JWT key, jwt_secret_key>, <Stripe key, stripe_key> in .env file
+- Run server side using `cd .\server\` `nodemon index.js`
+- Run client using `npm run start`
