@@ -23,4 +23,12 @@ Functionalities
 - Install modules in both server and client folders using `npm install`
 - Set up your <Database link, DB_link>, <JWT key, jwt_secret_key>, <Stripe key, stripe_key> in .env file
 - Run server side using `cd .\server\` `nodemon index.js`
-- Run client using `npm run start`
+- Run client side using `npm run start`
+
+# Languages and tools
+
+- [React](https://react.dev/)
+- [NodeJs](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
+- [Axios](https://axios-http.com/docs/intro)
+- [MongoDB](https://www.mongodb.com/docs/atlas/)
