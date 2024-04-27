@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Home from './components/home/Home';
 import SignIn from './components/SignIn';
 import Register from './components/Register';
-import {Provider} from 'react-redux'
+import { Provider } from 'react-redux'
 import store from './redux/store'
 import ProtectedRoute from './components/ProtectedRoute';
 // import ShowRequestApproval from './components/business/ShowRequestApproval';

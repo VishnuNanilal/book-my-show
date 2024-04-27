@@ -103,7 +103,7 @@ router.get('/:showid', async (req, res)=>{
     }
 })
 
-//add theater to the current show theaterslist.
+//add theater to the current show theaterslist. 
 router.patch('/add-theater/:showid', async (req, res)=>{
     try{
         const show = await Show.findById(req.params.showid);

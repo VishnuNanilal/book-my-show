@@ -1,6 +1,6 @@
 # MERN BOOK MY SHOW 
 
-A show booking site built using MERN stack including Axios and Stripe for payment functionality.
+A show booking site built using MERN stack including Axios for client-server communication and Stripe for payment functionality.
 
 Functionalities
 
@@ -43,3 +43,4 @@ Functionalities
 - [Express](https://expressjs.com/)
 - [Axios](https://axios-http.com/docs/intro)    
 - [MongoDB](https://www.mongodb.com/docs/atlas/)
+- [Stripe](https://docs.stripe.com/)
