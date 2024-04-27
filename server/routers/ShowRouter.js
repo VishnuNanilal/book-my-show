@@ -26,6 +26,7 @@ router.post('/add-show', async (req, res)=>{
     }
 })
 
+//Fetch all unapproved shows
 router.get('/unapproved', async (req, res)=>{
     try{
         let response = await Show.find({isApproved: false})
@@ -51,6 +52,7 @@ router.get('/unapproved', async (req, res)=>{
     }
 })
 
+//Fetch all approved shows
 router.get('/approved', async (req, res)=>{
     try{
         let response = await Show.find({isApproved: true})
@@ -101,6 +103,7 @@ router.get('/:showid', async (req, res)=>{
     }
 })
 
+//add theater to the current show theaterslist.
 router.patch('/add-theater/:showid', async (req, res)=>{
     try{
         const show = await Show.findById(req.params.showid);

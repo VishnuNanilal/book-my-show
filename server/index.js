@@ -9,6 +9,8 @@ const bookingsRouter = require('./routers/BookingsRouter')
 const path = require('path')
 
 app.use(express.json())
+
+//Routes for client side requests. 
 app.use('/uploads', express.static(path.join(__dirname, 'uploads')))
 app.use('/', userRouter)
 app.use('/movie', movieRouter)
