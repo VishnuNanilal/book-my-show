@@ -14,7 +14,7 @@ Functionalities
 - Global state management system using *Redux* 
 - Client-Server RESTFUL communication implemented using *axios*
 - Back End implemented in *NodeJS*.
-- Requests from Front End received by Back End with *Express*
+- Restful Requests handled in the Back End using *Express*
 - Database implemented on *MongoDB*
 
 # QuickStart Guide
@@ -24,6 +24,7 @@ Functionalities
 - Set up your Database link, JWT key, Stripe key as DB_link, jwt_secret_key, stripe_key respectively in .env file.
 - Run server side using `cd .\server\` `nodemon index.js`
 - Run client side using `npm run start`
+- While deploying make sure to include .env variable NODE_ENV='production'
 
 ### Development environment
 > Start client using `npm run client`. (Moves to client folder and runs `npm run start`)
@@ -34,7 +35,6 @@ Functionalities
 > For deploying use `npm run build` and `npm run start` from root folder
 
 - The project is live on render.com [link](https://book-my-show-b6j8.onrender.com/home)
-
 
 # Languages and tools
 
