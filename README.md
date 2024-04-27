@@ -27,6 +27,7 @@ Functionalities
 
 - *development environment*
 > Start client using `npm run client`
+
 > Start server using `npm run server`
 
 # Demo
