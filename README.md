@@ -25,6 +25,15 @@ Functionalities
 - Run server side using `cd .\server\` `nodemon index.js`
 - Run client side using `npm run start`
 
+- *development environment*
+> Start client using `npm run client`
+> Start server using `npm run server`
+
+# Demo
+
+- The project is live on render.com [link](https://book-my-show-b6j8.onrender.com/home)
+
+
 # Languages and tools
 
 - [React](https://react.dev/)
