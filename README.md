@@ -25,12 +25,12 @@ Functionalities
 - Run server side using `cd .\server\` `nodemon index.js`
 - Run client side using `npm run start`
 
-## Development environment
-> Start client using `npm run client`. (Moves to client folder and runs `npm run start` for client.)
+### Development environment
+> Start client using `npm run client`. (Moves to client folder and runs `npm run start`)
 
 > Start server using `npm run server`. (Moves to server and runs `nodemon index.js`)
 
-## Production environment
+### Production environment
 > For deploying use `npm run build` and `npm run start` from root folder
 
 - The project is live on render.com [link](https://book-my-show-b6j8.onrender.com/home)
