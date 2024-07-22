@@ -10,11 +10,11 @@ This project is a show booking playform where distributors/show owners can list 
 2. [Table of Contents](#table-of-contents)
 3. [Installation Instructions](#installation-instructions)
 4. [Language and Tools](#languages-and-tools)
-4. [Usage Instructions](#usage-instructions)
-5. [Features](#features)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact Information](#contact-information)
+5. [Usage Instructions](#usage-instructions)
+6. [Features](#features)
+7. [Contributing](#contributing)
+8. [License](#license)
+9. [Contact Information](#contact-information)
 ---
 
 ## Installation Instructions
